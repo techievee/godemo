@@ -1,4 +1,4 @@
-# Middle tier application written in Go.
+## Middle tier application written in Go.
 
 Demonstration of webservices.
 
@@ -10,11 +10,11 @@ The application contains logic for performing and operation of reading and writi
 
 
 ## API
-+-------------------------+
+
 |    ENDPOINTS | REST API |
 |--------------|----------|
 | /user/insert | Yes      |
 | /user/getall | Yes      |
 | /home        | Yes      |
-+-------------------------+
+
 
